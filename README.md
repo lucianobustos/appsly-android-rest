@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/lucianobustos/appsly-android-rest.svg?branch=master)](https://travis-ci.org/lucianobustos/appsly-android-rest.svg?branch=master)
+[![Build Status](https://travis-ci.org/lucianobustos/appsly-android-rest.svg?branch=master)](https://travis-ci.org/lucianobustos/appsly-android-rest)
 
 
 THIS PROJECT IS DISCONTINUED — USE AT YOUR OWN RISK - MOVING TO TRAVIS
