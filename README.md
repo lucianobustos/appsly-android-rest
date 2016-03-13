@@ -1,7 +1,7 @@
-[![Build Status](https://clinker.47deg.com/desktop/plugin/public/status/appsly-android-rest.png?branch=master)](https://clinker.47deg.com/jenkins/view/Appsly/job/appsly-android-rest/)
+[![Build Status](https://travis-ci.org/lucianobustos/appsly-android-rest.svg?branch=master)](https://travis-ci.org/lucianobustos/appsly-android-rest.svg?branch=master)
 
 
-THIS PROJECT IS DISCONTINUED — USE AT YOUR OWN RISK
+THIS PROJECT IS DISCONTINUED — USE AT YOUR OWN RISK - MOVING TO TRAVIS
 
 It has been a fun and great project but it's time for us to move on. Check out our recent work that we are doing with Scala on Android. http://47deg.github.io/translate-bubble-android/ and follow us on Github and Twitter for new and exciting open source projects. Thanks for your continuing support. If you wish to take on maintenance of this library please contact us through the issue tracker.
 
